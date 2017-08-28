@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Bhaijaan');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
 	th,td {
-		font-family: 'Baloo Bhaijaan', cursive;
+		font-family: 'Merriweather', serif;
 		text-align: center;
 	}
 	tr {
