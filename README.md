@@ -24,6 +24,5 @@ _A one-year calendar web page._
 * The months will have the same font and different from the date font
 * The calendar will have the days of the week spelled out
 * Use google fonts for the month titles
-* Have the background color for the months be an image
 * Be creative
 * Use external style sheet
