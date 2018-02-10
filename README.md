@@ -1,5 +1,5 @@
 # HTML & CSS Calendar Project
-A beautiful calendar coded in HTML and CSS
+A calendar coded in HTML and CSS
 
 https://daniel-olivo.github.io/Calendar/
 
