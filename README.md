@@ -1,6 +1,8 @@
 # HTML & CSS Calendar Project
 A beautiful calendar coded in HTML and CSS
 
+https://daniel-olivo.github.io/Calendar/
+
 ## Motivation
 To learn and practice HTML and CSS concepts to meet the requirements listed below.
 
